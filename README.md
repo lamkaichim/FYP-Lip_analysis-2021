@@ -17,9 +17,8 @@ Feature | Function
 3 | Analysis of lip volume
 
 Screenshots 
+![sample](/sample.PNG)
 
-
-- sample video:
-https://youtu.be/n2zu3GuDr1A<VIDEO URL>
+[sample video](https://youtu.be/n2zu3GuDr1A)
   
 
